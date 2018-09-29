@@ -13,7 +13,6 @@ html_files = ['top-players.html',
               'melee.2.html',
               'SSBMRank.html']
 
-# I need to change somethings - git commit
 
 def top_players_df():
     # let's create the data for the first item in the above list: top players
